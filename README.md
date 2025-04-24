@@ -74,5 +74,3 @@ Esto puede resultar en procesos lentos, costosos y propensos a cometer errores, 
    - Realizar auditorías regulares en los sistemas de IA para identificar y mitigar posibles sesgos.
 4. **Cumplimiento Regulatorio**:
    - Asegurar que el uso de IA cumple con las leyes y regulaciones locales y globales.
-
-En conclusión, la transformación de los procesos tradicionales de liquidación comercial mediante IA ofrece enormes ventajas si se implementa de manera ética, transparente y eficaz, permitiendo a las organizaciones ser más competitivas y centradas en el cliente.
